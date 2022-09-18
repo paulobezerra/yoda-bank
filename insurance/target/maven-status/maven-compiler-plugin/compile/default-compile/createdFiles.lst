@@ -1,9 +1,0 @@
-com/yoda/loans/services/InsuranceEndpoint.class
-com/yoda/insurances_ws/Insurance.class
-com/yoda/insurances_ws/package-info.class
-com/yoda/loans/repositories/InsurancesRepository.class
-com/yoda/loans/InsuranceApplication.class
-com/yoda/insurances_ws/GetInsurancesResponse.class
-com/yoda/loans/configs/WebServiceConfig.class
-com/yoda/insurances_ws/GetInsurancesRequest.class
-com/yoda/insurances_ws/ObjectFactory.class
