@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be35a810-0fe9-41b2-b8b0-3abe3cc6005f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/CreditCard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yoda/loans/CreditCardApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/CreditCardTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/yoda/loans/LoansApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/src/main/proto/.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/classes/.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/classes/net/devh/boot/grpc/examples/lib/CreditCard$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/classes/net/devh/boot/grpc/examples/lib/CreditCard$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/classes/net/devh/boot/grpc/examples/lib/CreditCard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/classes/net/devh/boot/grpc/examples/lib/CreditCardOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/classes/net/devh/boot/grpc/examples/lib/CreditCardReply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/classes/net/devh/boot/grpc/examples/lib/CreditCardReply$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/classes/net/devh/boot/grpc/examples/lib/CreditCardReply.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/classes/net/devh/boot/grpc/examples/lib/CreditCardReplyOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/classes/net/devh/boot/grpc/examples/lib/CreditCardRequest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/classes/net/devh/boot/grpc/examples/lib/CreditCardRequest$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/classes/net/devh/boot/grpc/examples/lib/CreditCardRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/classes/net/devh/boot/grpc/examples/lib/CreditCardRequestOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/classes/net/devh/boot/grpc/examples/lib/CreditCardsGrpc$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/classes/net/devh/boot/grpc/examples/lib/CreditCardsGrpc$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/classes/net/devh/boot/grpc/examples/lib/CreditCardsGrpc$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/classes/net/devh/boot/grpc/examples/lib/CreditCardsGrpc$CreditCardsBaseDescriptorSupplier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/classes/net/devh/boot/grpc/examples/lib/CreditCardsGrpc$CreditCardsBlockingStub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/classes/net/devh/boot/grpc/examples/lib/CreditCardsGrpc$CreditCardsFileDescriptorSupplier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/classes/net/devh/boot/grpc/examples/lib/CreditCardsGrpc$CreditCardsFutureStub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/classes/net/devh/boot/grpc/examples/lib/CreditCardsGrpc$CreditCardsImplBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/classes/net/devh/boot/grpc/examples/lib/CreditCardsGrpc$CreditCardsMethodDescriptorSupplier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/classes/net/devh/boot/grpc/examples/lib/CreditCardsGrpc$CreditCardsStub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/classes/net/devh/boot/grpc/examples/lib/CreditCardsGrpc$MethodHandlers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/classes/net/devh/boot/grpc/examples/lib/CreditCardsGrpc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/classes/net/devh/boot/grpc/examples/lib/HelloWorldProto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/generated-sources/protobuf/grpc-java/net/devh/boot/grpc/examples/lib/CreditCardsGrpc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/generated-sources/protobuf/java/net/devh/boot/grpc/examples/lib/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/generated-sources/protobuf/java/net/devh/boot/grpc/examples/lib/CreditCardOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/generated-sources/protobuf/java/net/devh/boot/grpc/examples/lib/CreditCardReply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/generated-sources/protobuf/java/net/devh/boot/grpc/examples/lib/CreditCardReplyOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/generated-sources/protobuf/java/net/devh/boot/grpc/examples/lib/CreditCardRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/generated-sources/protobuf/java/net/devh/boot/grpc/examples/lib/CreditCardRequestOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/generated-sources/protobuf/java/net/devh/boot/grpc/examples/lib/HelloWorldProto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/api/annotations.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/api/auth.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/api/backend.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/api/billing.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/api/client.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/api/config_change.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/api/consumer.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/api/context.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/api/control.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/api/distribution.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/api/documentation.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/api/endpoint.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/api/error_reason.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/api/field_behavior.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/api/http.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/api/httpbody.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/api/label.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/api/launch_stage.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/api/log.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/api/logging.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/api/metric.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/api/monitored_resource.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/api/monitoring.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/api/quota.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/api/resource.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/api/routing.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/api/service.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/api/source_info.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/api/system_parameter.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/api/usage.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/api/visibility.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/cloud/audit/audit_log.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/cloud/extended_operations.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/geo/type/viewport.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/logging/type/http_request.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/logging/type/log_severity.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/longrunning/operations.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/rpc/code.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/rpc/context/attribute_context.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/rpc/error_details.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/rpc/status.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/type/calendar_period.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/type/color.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/type/date.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/type/datetime.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/type/dayofweek.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/type/decimal.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/type/expr.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/type/fraction.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/type/interval.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/type/latlng.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/type/localized_text.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/type/money.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/type/month.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/type/phone_number.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/type/postal_address.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/type/quaternion.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/dd01a3983300cacfa5a5bbde0c1fb7f7/google/type/timeofday.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/fe5316c1e194b8c2f75e5234a0833f0c/google/protobuf/any.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/fe5316c1e194b8c2f75e5234a0833f0c/google/protobuf/api.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/fe5316c1e194b8c2f75e5234a0833f0c/google/protobuf/compiler/plugin.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/fe5316c1e194b8c2f75e5234a0833f0c/google/protobuf/descriptor.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/fe5316c1e194b8c2f75e5234a0833f0c/google/protobuf/duration.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/fe5316c1e194b8c2f75e5234a0833f0c/google/protobuf/empty.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/fe5316c1e194b8c2f75e5234a0833f0c/google/protobuf/field_mask.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/fe5316c1e194b8c2f75e5234a0833f0c/google/protobuf/source_context.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/fe5316c1e194b8c2f75e5234a0833f0c/google/protobuf/struct.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/fe5316c1e194b8c2f75e5234a0833f0c/google/protobuf/timestamp.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/fe5316c1e194b8c2f75e5234a0833f0c/google/protobuf/type.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-dependencies/fe5316c1e194b8c2f75e5234a0833f0c/google/protobuf/wrappers.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-plugins/protoc-3.19.1-linux-x86_64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../creditCardProto/target/protoc-plugins/protoc-gen-grpc-java-1.49.0-linux-x86_64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/src/main/Insurance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/src/main/java/com/yoda/loans/InsuranceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/src/main/java/com/yoda/loans/configs/WebServiceConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/src/main/java/com/yoda/loans/repositories/InsurancesRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/src/main/java/com/yoda/loans/services/InsuranceEndpoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/src/main/resources/insurances.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/src/test/InsuranceTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/target/classes/META-INF/JAXB/episode_xjc.xjb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/target/classes/com/yoda/insurances_ws/GetInsurancesRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/target/classes/com/yoda/insurances_ws/GetInsurancesResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/target/classes/com/yoda/insurances_ws/Insurance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/target/classes/com/yoda/insurances_ws/ObjectFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/target/classes/com/yoda/insurances_ws/package-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/target/classes/com/yoda/loans/InsuranceApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/target/classes/com/yoda/loans/configs/WebServiceConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/target/classes/com/yoda/loans/repositories/InsurancesRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/target/classes/com/yoda/loans/services/InsuranceEndpoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/target/classes/insurances.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/target/classes/jaxb/META-INF/JAXB/episode_xjc.xjb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/target/generated-sources/jaxb/META-INF/JAXB/episode_xjc.xjb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/target/generated-sources/jaxb/com/yoda/insurances_ws/GetInsurancesRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/target/generated-sources/jaxb/com/yoda/insurances_ws/GetInsurancesResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/target/generated-sources/jaxb/com/yoda/insurances_ws/Insurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/target/generated-sources/jaxb/com/yoda/insurances_ws/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/target/generated-sources/jaxb/com/yoda/insurances_ws/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/target/insurances-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/target/insurances-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/target/jaxb2/.xjc-xjcStaleFlag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loans/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loans/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loans/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loans/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loans/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loans/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loans/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loans/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loans/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loans/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loans/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loans/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loans/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loans/src/main/Loans.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loans/src/main/java/com/yoda/loans/LoansApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loans/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loans/src/test/LoansTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loans/src/test/java/com/yoda/loans/LoansApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2EtPuwrDBDlVeUD2FKdzicwX4gZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/paulo/development/projects/YodaBank/creditCard&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be35a810-0fe9-41b2-b8b0-3abe3cc6005f" name="Changes" comment="" />
+      <created>1663412134528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663412134528</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:com.google.protobuf:protobuf-java" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

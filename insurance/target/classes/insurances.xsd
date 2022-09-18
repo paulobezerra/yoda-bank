@@ -1,0 +1,28 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://yoda.com/insurances-ws"
+           targetNamespace="http://yoda.com/insurances-ws" elementFormDefault="qualified">
+
+    <xs:element name="getInsurancesRequest">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="userId" type="xs:string"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="getInsurancesResponse">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="insurences" maxOccurs="unbounded" type="tns:insurance"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:complexType name="insurance">
+        <xs:sequence>
+            <xs:element name="id" type="xs:long"/>
+            <xs:element name="title" type="xs:string"/>
+            <xs:element name="description" type="xs:string"/>
+            <xs:element name="value" type="xs:decimal"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:schema>
