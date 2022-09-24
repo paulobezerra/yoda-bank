@@ -1,5 +1,14 @@
 # Getting Started
 
+### Build
+
+* Generate .jar file:
+    * `./mvnw clean package`
+* Build docker image:
+    * `docker build --platform linux/amd64 -t yoda-loans .`
+
+---
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 

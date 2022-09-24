@@ -16,7 +16,7 @@ public class InsurancesRepository {
     @PostConstruct
     public void initData() {
         Insurance carInsurance = new Insurance();
-        carInsurance.setId(Double.valueOf(Math.random()).longValue());
+        carInsurance.setId(Double.valueOf(Math.random() * Double.MAX_VALUE).longValue());
         carInsurance.setTitle("Car Insurance");
         carInsurance.setDescription("Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma " +
                 "pinga aí cumpadi!Tá deprimidis, eu conheço uma cachacis que pode alegrar sua vidis.Paisis, filhis, " +
@@ -25,7 +25,7 @@ public class InsurancesRepository {
         insurances.add(carInsurance);
 
         Insurance homeInsurance = new Insurance();
-        homeInsurance.setId(Double.valueOf(Math.random()).longValue());
+        homeInsurance.setId(Double.valueOf(Math.random() * Double.MAX_VALUE).longValue());
         homeInsurance.setTitle("House Insurance");
         homeInsurance.setDescription("Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma " +
                 "pinga aí cumpadi!Tá deprimidis, eu conheço uma cachacis que pode alegrar sua vidis.Paisis, filhis, " +
@@ -34,7 +34,7 @@ public class InsurancesRepository {
         insurances.add(homeInsurance);
 
         Insurance lifeInsurance = new Insurance();
-        lifeInsurance.setId(Double.valueOf(Math.random()).longValue());
+        lifeInsurance.setId(Double.valueOf(Math.random() * Double.MAX_VALUE).longValue());
         lifeInsurance.setTitle("House Insurance");
         lifeInsurance.setDescription("Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma " +
                 "pinga aí cumpadi!Tá deprimidis, eu conheço uma cachacis que pode alegrar sua vidis.Paisis, filhis, " +

@@ -1,10 +1,11 @@
 package com.yoda.loans.entities;
 
-import java.io.Serializable;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
 import java.math.BigDecimal;
 
-public class Loan implements Serializable {
-
+@JsonIgnoreProperties(ignoreUnknown = true)
+public class Loan {
     private Long id;
     private String title;
     private String description;
@@ -47,5 +48,15 @@ public class Loan implements Serializable {
     public Loan setAnualInterestRate(BigDecimal anualInterestRate) {
         this.anualInterestRate = anualInterestRate;
         return this;
+    }
+
+    @Override
+    public String toString() {
+        return "Loan{" +
+                "id=" + id +
+                ", title='" + title + '\'' +
+                ", description='" + description + '\'' +
+                ", anualInterestRate=" + anualInterestRate +
+                '}';
     }
 }

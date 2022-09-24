@@ -28,7 +28,7 @@ public class InsuranceEndpoint {
     @PayloadRoot(namespace = NAMESPACE_URI, localPart = "getInsurancesRequest")
     @ResponsePayload
     public GetInsurancesResponse getInsurance(@RequestPayload GetInsurancesRequest request) throws InterruptedException {
-        TimeUnit.MILLISECONDS.sleep(960);
+        TimeUnit.SECONDS.sleep(1);
         GetInsurancesResponse response = new GetInsurancesResponse();
         List<Insurance> insuranceList = insurancesRepository.findInsurance(request.getUserId());
         response.getInsurences().addAll(insuranceList);
