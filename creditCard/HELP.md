@@ -1,5 +1,17 @@
 # Getting Started
 
+### Build
+
+* Generate .jar file: 
+  * `./mvnw clean package`
+* Build docker image: 
+  * `docker build --platform linux/amd64 -t yoda-insurances .`
+* Command to test service: 
+  * `grpcurl --plaintext -d '{"userId":123}' localhost:9090 com.yoda.creditCard.CreditCards/getCreditCards`
+* Install grpcurl: 
+  * `curl -sSL "https://github.com/fullstorydev/grpcurl/releases/download/v1.8.7/grpcurl_1.8.7_linux_x86_64.tar.gz" | sudo tar -xz -C /usr/local/bin`
+---
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
@@ -15,4 +27,3 @@ The following guides illustrate how to use some features concretely:
 * [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
 * [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
 * [Building REST services with Spring](https://spring.io/guides/tutorials/rest/)
-

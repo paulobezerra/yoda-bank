@@ -1,10 +1,10 @@
 syntax = "proto3";
 
-package net.devh.boot.grpc.example;
+package com.yoda.creditCard;
 
 option java_multiple_files = true;
-option java_package = "net.devh.boot.grpc.examples.lib";
-option java_outer_classname = "HelloWorldProto";
+option java_package = "com.yoda.creditCard";
+option java_outer_classname = "CreditCardProto";
 
 service CreditCards {
   rpc getCreditCards (CreditCardRequest) returns (CreditCardReply) {
