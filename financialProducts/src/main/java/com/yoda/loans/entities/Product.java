@@ -12,8 +12,7 @@ public class Product implements Serializable {
     private BigDecimal rate;
     private ProductTypeEnum type;
 
-    public Product() {
-    }
+
 
     public Long getId() {
         return id;

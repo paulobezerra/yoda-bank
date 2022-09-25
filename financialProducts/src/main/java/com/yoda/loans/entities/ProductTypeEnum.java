@@ -1,5 +1,8 @@
 package com.yoda.loans.entities;
 
+import com.fasterxml.jackson.annotation.JsonFormat;
+
+@JsonFormat(shape = JsonFormat.Shape.OBJECT)
 public enum ProductTypeEnum {
     LOAN("Emprestimo"),
     INSURANCE("Seguro"),
@@ -9,5 +12,9 @@ public enum ProductTypeEnum {
 
     ProductTypeEnum(String label) {
         this.label = label;
+    }
+
+    public String getLabel() {
+        return label;
     }
 }
